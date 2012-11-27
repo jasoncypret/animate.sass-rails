@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "animate.sass for the Rails assets pipeline."
   s.description = "As expected..."
 
-  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 3.2.8"
 end
